@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932501256370",
+    "project_id": "brewbyte28",
+    "storage_bucket": "brewbyte28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932501256370:android:d48e28ee54abb3dcceb1ab",
+        "android_client_info": {
+          "package_name": "com.example.brewbyte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo5kO2_3evyGTi7wwkde2ecqm7e2ywJyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
